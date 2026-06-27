@@ -1,4 +1,3 @@
-````md
 <div align="center">
 
 # Hey there! 👋 I'm Aditya
@@ -180,4 +179,3 @@ Whether it's collaborating on a project, discussing AI, or simply exchanging ide
 ⭐ If you like my work, consider starring a repository!
 
 </div>
-````
