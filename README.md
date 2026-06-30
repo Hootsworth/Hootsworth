@@ -144,9 +144,7 @@ When I'm not coding you'll probably find me:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hootsworth&show_icons=true&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hootsworth&layout=compact&hide_border=true"/>
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=Hootsworth&include_all_commits=true&theme=dark"/>
 
 </p>
 
